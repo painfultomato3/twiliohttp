@@ -1,0 +1,3 @@
+import os
+
+os.system('export API_KEY_KRAKEN=jetos/UpVneqgYEPYtPJEZaf8lFIRAuaQFLGhOdrYts7SA9tPY3SPUsI && export API_SEC_KRAKEN=4j+Vooa7bjRD7HA3ut93J0FOf94DSkHHpgRCeR/FAoEFBR960dMBUf7NprEsffG84mZSZWjWvDyC0c1F7RgEcw==')
